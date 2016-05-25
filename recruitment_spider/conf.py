@@ -7,4 +7,4 @@
 配置文件
 '''
 
-Database_Conf = {"user":"root","passwd":1,"db":"recruitment","host":"localhost"}
+Database_Conf = {"user":"root","passwd":"1","db":"recruitment","host":"localhost"}

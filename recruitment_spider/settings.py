@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'recruitment_spider.pipelines.SomePipeline': 300,
+    'recruitment_spider.pipelines.RecruitmentSpiderPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
